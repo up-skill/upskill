@@ -106,6 +106,7 @@ margin-bottom: 0px;
   transition: all 0.5s;
   cursor: pointer;
   margin: 15px;
+    text-decoration: none;
 
 }
 .button a{
